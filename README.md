@@ -20,11 +20,11 @@
 7. [Join the Quantum Odyssey: A Call to Action](#join-the-quantum-odyssey-a-call-to-action-)
 8. [Contribute to the Quantum Leap](#contribute-to-the-quantum-leap-)
 
-### Introduction 🌌
+### 1. Introduction 🌌
 
 Imagine condensing a library vast enough to fill an entire building into a digital format small enough to fit in your pocket, retaining the essence of comprehensive knowledge while eliminating physical bulk. This analogy mirrors our undertaking with **BERT**, a colossus in the domain of Large Language Models (LLMs). Our mission has been audacious yet straightforward: compress BERT's extensive neural network into a more compact, efficient form without diminishing its cognitive depth, ensuring its advanced linguistic capabilities are accessible even on devices at the technological fringe.
 
-### Understanding Quantization in AI 🖌️
+### 2. Understanding Quantization in AI 🖌️
 
 Quantization, in the context of AI, resembles an artist's challenge of conveying the same visual masterpiece using a drastically reduced color palette. Specifically, for **BERT**, it means optimizing its numerical intricacies - weights and activations - to perform effectively under significantly constrained computational resources.
 
@@ -38,7 +38,7 @@ This ingenious process achieves several key objectives:
 
 - **Safeguards Performance Integrity**: Despite the reductions in resource intensity, the process meticulously ensures the model's performance remains uncompromised, retaining its original accuracy and effectiveness.
 
-### Journey Through Model Compression 🛤️
+### 3. Journey Through Model Compression 🛤️
 
 #### Pre-Quantization: Preparing BERT
 
@@ -86,7 +86,7 @@ for batch in training_data:
     optimizer.step()
 ```
 
-##### Quantization Unveiled: Results & Insights 🌟
+##### 4. Quantization Unveiled: Results & Insights 🌟
 The culmination of our efforts was a revelation - a BERT model not only leaner and faster but still endowed with its profound linguistic insight. We observed:
 
 Model Size Reduction
@@ -113,19 +113,19 @@ Original BERT Sentiment Accuracy: 92.5%
 Quantized BERT Sentiment Accuracy: 91.8%
 ```
 
-### Guide for Future Explorers 🧭
+### 5. Guide for Future Explorers 🧭
 
 Embarking on this quantization journey unveils a path less traveled, rich with potential for discovery and innovation. This README serves as a compass, guiding intrepid explorers through uncharted territories of model compression. It includes detailed methodologies, from initial model selection to the intricacies of executing quantization and evaluating post-quantization performance. Fellow voyagers are encouraged to leverage this guide, forging their paths in the expanding universe of AI optimization.
 
-### Beyond the Quantum Horizon 🌄
+### 6. Beyond the Quantum Horizon 🌄
 
 Reflecting on our expedition, we've not only achieved a more efficient model but also expanded the landscape for AI's application, making advanced computational knowledge more accessible and actionable. The quantized **BERT** stands as a testament to our journey, embodying the potential of quantization to democratize AI, ensuring its benefits are not confined to those with access to formidable computational resources.
 
-### Join the Quantum Odyssey: A Call to Action 🚀
+### 7. Join the Quantum Odyssey: A Call to Action 🚀
 
 We stand at the dawn of a new era in AI, where efficiency and innovation converge to broaden the horizons of what's possible. This README is an invocation to the curious, the creators, and the pioneers to venture into the realm of model quantization. Share your discoveries, challenges, and victories. Together, we can illuminate the path forward, ensuring the benefits of AI are realized across every facet of our digital and physical existence.
 
-### Contribute to the Quantum Leap 🤝
+### 8. Contribute to the Quantum Leap 🤝
 
 - **Engage with Experiments**: Dive into quantizing diverse models, exploring the breadth of potential improvements and sharing your findings.
 - **Innovate in Optimization**: Contribute new insights and techniques that enhance model efficiency without compromising accuracy.
