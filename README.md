@@ -1,5 +1,7 @@
 # Quantum Leaps in AI: The Art and Science of Model Quantization 🚀🧠
 
+![CleanShot 07-04-2024 at 17 59 20@2x](https://github.com/WHATDOESTHEFOXSAY2U/Quantization/assets/25818677/df3d1da3-b8d4-4114-8e86-737bab255d4b)
+
 ## Table of Contents
 1. [Introduction](#introduction-)
 2. [Understanding Quantization in AI](#understanding-quantization-in-ai-)
